@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Vonovia SE](https://presse.vonovia.de/-/media/internet-media-library/websites/muss-noch-aufgeraeumt-werden-mediathek-neu/unternehmen/teaser-image-kachelstage-m-unternehmenszentrale.jpg)
